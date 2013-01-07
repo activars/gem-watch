@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 
+gem 'rake', '~>10.0.3'
+
 gem 'unicorn', '~> 4.4.0'
 gem 'ffi'
 

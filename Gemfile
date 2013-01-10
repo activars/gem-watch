@@ -25,9 +25,9 @@ gem 'six', '0.2.0'
 gem 'handlebars', '~> 0.3.1'
 gem 'statsd-ruby', '~> 1.2.0', :require => 'statsd'
 gem 'exception_notification', '~> 3.0.0'
-gem 'aasm', '~>  3.0.12'
+gem 'aasm', '~>  3.0.14'
 gem 'uglifier', '~> 1.3.0'
-gem "ar_after_transaction", "~> 0.2.5"
+gem "ar_after_transaction", "~> 0.2.6"
 
 # Amazon S3
 gem 'fog', '~> 1.8.0'

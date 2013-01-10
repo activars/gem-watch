@@ -1,5 +1,3 @@
-source 'http://rubygems.org'
-
 gem 'unicorn', '~> 4.5.0'
 gem 'ffi'
 
@@ -15,8 +13,8 @@ gem 'uuidtools', '~> 2.1.3'
 gem 'activeuuid', '~> 0.3.0'
 gem 'kaminari', '~> 0.14.1'
 gem 'typhoeus', '~> 0.4.2'
-gem 'paperclip', '~> 3.3.1'
-gem 'pdf_to_swf-paperclip-processor', '~> 0.1.2', :git => 'git@github.com:activars/paperclip-pdf-to-swf-processor.git'
+gem 'paperclip', '~> 3.4.0'
+gem 'pdf_to_swf-paperclip-processor', '~> 0.1.3', :git => 'git@github.com:activars/paperclip-pdf-to-swf-processor.git'
 gem 'resque', '1.23.0'
 gem 'resque-scheduler', '~> 2.0.0'
 gem 'pdfkit', '~> 0.5.2'

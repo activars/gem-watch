@@ -20,7 +20,7 @@ gem 'pdf_to_swf-paperclip-processor', '~> 0.1.2', :git => 'git@github.com:activa
 gem 'resque', '1.23.0'
 gem 'resque-scheduler', '~> 2.0.0'
 gem 'pdfkit', '~> 0.5.2'
-gem 'chronic', '~> 0.8.0'
+gem 'chronic', '~> 0.9.0'
 gem 'six', '0.2.0'
 gem 'handlebars', '~> 0.3.1'
 gem 'statsd-ruby', '~> 1.2.0', :require => 'statsd'

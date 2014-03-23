@@ -5,7 +5,7 @@ gem 'ffi', '~> 1.3.1'
 
 gem 'rails', '~> 3.2.12'
 
-gem 'rack-ssl', '~> 1.3.3'
+gem 'rack-ssl', '~> 1.4.0'
 gem 'rake', '~> 10.0.3'
 gem 'mysql2', '~> 0.3.11'
 gem 'devise', '~> 2.2.3'
